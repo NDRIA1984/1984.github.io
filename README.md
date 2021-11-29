@@ -2,13 +2,13 @@
 
 This Immutable Domain 1984byGeorgeOrwell/ was created through [Namebase.io](https://www.namebase.io/domains/1984bygeorgeorwell) and is a part of the [Alexandria Project](https://www.namebase.io/domains/AlexandriaProject)
 
-The following files are hosted on IPFS:
+### The following files are hosted on IPFS:**
 
-[Full Text PDF](https://bafybeia4l6lgk5nuevnarpinpdokjtyat5jnozfnqrhtideq3hxcxoy24a.ipfs.dweb.link/1984%20-%20George%20Orwell.pdf)
+[**Full Text PDF**](https://bafybeia4l6lgk5nuevnarpinpdokjtyat5jnozfnqrhtideq3hxcxoy24a.ipfs.dweb.link/1984%20-%20George%20Orwell.pdf)
 
-[Full Text Epub](https://bafybeict4pb4nustgm6busemvzkmi3vn4mi2nv76ccg23zg4jbd3yhxrxe.ipfs.dweb.link/1984%20-%20George%20Orwell.epub)
+[**Full Text Epub**](https://bafybeict4pb4nustgm6busemvzkmi3vn4mi2nv76ccg23zg4jbd3yhxrxe.ipfs.dweb.link/1984%20-%20George%20Orwell.epub)
 
-### Markdown
+### Audiobook Versions (OGG, MP3, MP4)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
