@@ -1,6 +1,6 @@
 ## 1984 by George Orwell
 
-You can use the [editor on GitHub](https://github.com/NDRIA1984/NDRIA1984.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This Immutable Domain 1984byGeorgeOrwell/ was created through [Namebase.io](https://www.namebase.io/domains/1984bygeorgeorwell) and is a part of the [Alexandria Project](https://www.namebase.io/domains/AlexandriaProject)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
