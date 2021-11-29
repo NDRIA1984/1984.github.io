@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 1984 by George Orwell
 
 You can use the [editor on GitHub](https://github.com/NDRIA1984/NDRIA1984.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
